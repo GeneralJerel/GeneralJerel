@@ -36,17 +36,17 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 
 As **Founder**, I've built several impactful AI-driven products:
 
-- 🔹 **[VeriPol](https://breadonce-portfolio-website.vercel.app/#projects)** – Voter empowerment app providing accessible political data
-- 🔹 **[Get Your Coach AI](https://getyourcoach.ai/)** – An experimental AI-powered voice assistant that acts as a personal coach, built with Vapi and OpenAI to offer guidance and goal-focused conversations
-- 🔹 **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings
-- 🔹 **[SenatorMatch](https://senator-match.vercel.app/)** – A 2025 voter alignment tool that matches users with Philippine senatorial candidates based on values, policies, and issue preferences
-- 🔹 **[Don'tSign](https://breadonce-portfolio-website.vercel.app/#projects)** – AI-native contract platform for smarter drafting and redlining
+- **[VeriPol](https://breadonce-portfolio-website.vercel.app/#projects)** – Voter empowerment app providing accessible political data
+- **[Get Your Coach AI](https://getyourcoach.ai/)** – An experimental AI-powered voice assistant that acts as a personal coach, built with Vapi and OpenAI to offer guidance and goal-focused conversations
+- **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings
+- **[SenatorMatch](https://senator-match.vercel.app/)** – A 2025 voter alignment tool that matches users with Philippine senatorial candidates based on values, policies, and issue preferences
+- **[Don'tSign](https://breadonce-portfolio-website.vercel.app/#projects)** – AI-native contract platform for smarter drafting and redlining
 
 **Additional Contributions:**
 
-- 🔹 **Community Building** – Founded AI Pilipinas Cebu Chapter, empowering local developers with AI education
-- 🔹 **Startup Scaling** – Accelerated go-to-market success through strategic AI product implementations
-- 🔹 **Enterprise AI Solutions** – Built scalable AI portfolios that drove significant business growth
+- **Community Building** – Founded AI Pilipinas Cebu Chapter, empowering local developers with AI education
+- **Startup Scaling** – Accelerated go-to-market success through strategic AI product implementations
+- **Enterprise AI Solutions** – Built scalable AI portfolios that drove significant business growth
 
 ---
 
@@ -91,6 +91,7 @@ As **Founder**, I've built several impactful AI-driven products:
 #### 📊 Product & Analytics
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
