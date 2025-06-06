@@ -27,26 +27,15 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 
 ---
 
-### 💼 Professional Experience
-
-- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_ (Current)
-  - Leading product strategy for our Venture Studio
-  - Building 2 AI Products in Stealth mode
-- **[MultiplAI AI Agents](https://rea.pro/)** – _Director of Product Management, Startup Portfolio_
-  - Building AI agents and crew to automate workplace tasks
-- **[InterviewRoom.ai](https://interviewroom.ai)** – _Product Leadership_
-  - AI-powered interview platform to cut hiring costs, accelerate time-to-hire, and attract top 1% talent
-  - Deep candidate insights, personality scores, and dynamic follow-up prompts for live and recorded interviews
-
----
-
-### 🎓 Education
-
-- 🏫 **Asian Institute of Management** — Post Graduate Diploma, Artificial Intelligence and Machine Learning
-
----
-
 ### 🛠️ Featured Projects & Contributions
+
+**🚀 Current Project (Open Source):**
+
+- **[ADKFlow](https://github.com/GeneralJerel/adkflow)** – _Visual AI Agent Workflow Editor_ (Active Development)
+  - A visual flow editor for creating and managing AI agent workflows using the Google AI Development Kit (ADK)
+  - Build complex agent pipelines with an intuitive drag-and-drop interface and export them as ready-to-run Python code
+  - Built with Next.js 15, TypeScript, ReactFlow, and Tailwind CSS
+  - Open source project democratizing AI agent development for the community
 
 As **Founder**, I've built several impactful AI-driven products:
 
@@ -61,6 +50,25 @@ As **Founder**, I've built several impactful AI-driven products:
 - **Community Building** – Founded AI Pilipinas Cebu Chapter, empowering local developers with AI education
 - **Startup Scaling** – Accelerated go-to-market success through strategic AI product implementations
 - **Enterprise AI Solutions** – Built scalable AI portfolios that drove significant business growth
+
+---
+
+### 💼 Professional Experience
+
+- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_ (Current)
+  - Leading product strategy for our Venture Studio
+  - Building 2 AI Startups in Stealth mode
+- **[MultiplAI AI Agents](https://rea.pro/)** – _Director of Product Management, Startup Portfolio_
+  - Building AI agents and crew to automate workplace tasks
+- **[InterviewRoom.ai](https://interviewroom.ai)** – _Director of Product Management, Startup Portfolio_
+  - AI-powered interview platform to cut hiring costs, accelerate time-to-hire, and attract top 1% talent
+  - Deep candidate insights, personality scores, and dynamic follow-up prompts for live and recorded interviews
+
+---
+
+### 🎓 Education
+
+- 🏫 **Asian Institute of Management** — Post Graduate Diploma, Artificial Intelligence and Machine Learning
 
 ---
 
@@ -121,7 +129,6 @@ As **Founder**, I've built several impactful AI-driven products:
 ### 🏢 Organizations & Community
 
 - 🧠 **[AI Pilipinas Cebu Chapter](https://www.facebook.com/aipilipinascebu/)** – Founder | Empowering Filipinos with AI education and job-readiness programs
-- 🚀 **Startup Ecosystem** – Product leadership and AI strategy consultant for early-stage companies
 
 ---
 
