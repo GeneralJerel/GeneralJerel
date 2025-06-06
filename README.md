@@ -8,7 +8,7 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 
 ### 💡 What I Do
 
-> _"Make it work, Make it Right, Make it Pretty"_
+> _"Make it work, Make it Right, Make it Pretty, and scale like a MF"_
 
 - 🤖 **AI Product Strategy** – Building intelligent products using Agent Development Kit, OpenAI, and cutting-edge AI technologies
 - 🎯 **Prompt Engineering** – Crafting sophisticated AI interactions and agent workflows for startup solutions
@@ -25,10 +25,24 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 - 🏢 **Product Leader** at $30M startup (Previously)
 - 🌍 **Founder** of AI Pilipinas Cebu Chapter - promoting AI job-readiness for Filipinos
 
+---
+
+### 💼 Professional Experience
+
+- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_ (Current)
+  - Leading product strategy for our Venture Studio
+  - Building 2 AI Products in Stealth mode
+- **[MultiplAI AI Agents](https://rea.pro/)** – _Director of Product Management, Startup Portfolio_
+  - Building AI agents and crew to automate workplace tasks
+- **[InterviewRoom.ai](https://interviewroom.ai)** – _Product Leadership_
+  - AI-powered interview platform to cut hiring costs, accelerate time-to-hire, and attract top 1% talent
+  - Deep candidate insights, personality scores, and dynamic follow-up prompts for live and recorded interviews
+
+---
+
 ### 🎓 Education
 
 - 🏫 **Asian Institute of Management** — Post Graduate Diploma, Artificial Intelligence and Machine Learning
-
 
 ---
 
@@ -91,8 +105,8 @@ As **Founder**, I've built several impactful AI-driven products:
 #### 📊 Product & Analytics
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
