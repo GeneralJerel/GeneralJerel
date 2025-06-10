@@ -14,7 +14,7 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 - 🎯 **Prompt Engineering** – Crafting sophisticated AI interactions and agent workflows for startup solutions
 - 🚀 **Product Leadership** – Aligning AI product development with strategic business goals and driving growth
 - 🐍 **Python Development** – Building scalable AI systems and automation tools
-- ⚛️ **React Development** – Creating modern web experiences with AI-powered Cursor assistance
+- ⚛️ **Prompt prototyping / Vibe Coding** – Creating prototypes with AI-powered development tools Cursor assistance
 
 ---
 
