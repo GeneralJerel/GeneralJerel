@@ -8,7 +8,7 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 
 ### 💡 What I Do
 
-> _"Make it work, Make it Right, Make it Pretty, and scale like a MF"_
+> _"Make it WORK, Make it RIGHT, Make it PRETTY, and scale like a MF"_
 
 - 🤖 **AI Product Strategy** – Building intelligent products using Agent Development Kit, OpenAI, and cutting-edge AI technologies
 - 🎯 **Prompt Engineering** – Crafting sophisticated AI interactions and agent workflows for startup solutions
