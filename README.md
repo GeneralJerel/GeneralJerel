@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jerel Velarde
 
-## 🧠 AI Product Leader | Prompt Engineer | Community Builder
+## 🧠 AI Product Leader | AI Engineer | Community Builder
 
 I'm a distinguished product leader and AI specialist based in the Philippines (GMT+8), passionate about building meaningful AI-driven products that create impact at scale. My journey spans 9 years of product strategy and artificial intelligence, recognized as a LinkedIn Top Voice for Product Management in 2023 and honored as one of the Top 100 Brightest Minds Under 30 in the Philippines.
 
@@ -28,14 +28,6 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 ---
 
 ### 🛠️ Featured Projects & Contributions
-
-**🚀 Current Project (Open Source):**
-
-- **[ADKFlow](https://github.com/GeneralJerel/adkflow)** – _Visual AI Agent Workflow Editor_ (Active Development)
-  - A visual flow editor for creating and managing AI agent workflows using the Google AI Development Kit (ADK)
-  - Build complex agent pipelines with an intuitive drag-and-drop interface and export them as ready-to-run Python code
-  - Built with Next.js 15, TypeScript, ReactFlow, and Tailwind CSS
-  - Open source project democratizing AI agent development for the community
 
 As **Founder**, I've built several impactful AI-driven products:
 
