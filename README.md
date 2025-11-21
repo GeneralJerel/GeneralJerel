@@ -25,18 +25,6 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 - 🏢 **Product Leader** at $30M startup (Previously)
 - 🌍 **Founder** of AI Pilipinas Cebu Chapter - promoting AI job-readiness for Filipinos
 
----
-
-### 🛠️ Featured Projects & Contributions
-
-As **Founder**, I've built several impactful AI-driven products:
-
-- **[VeriPol](https://breadonce-portfolio-website.vercel.app/#projects)** – Voter empowerment app providing accessible political data
-- **[Get Your Coach AI](https://getyourcoach.ai/)** – An experimental AI-powered voice assistant that acts as a personal coach, built with Vapi and OpenAI to offer guidance and goal-focused conversations
-- **[Dexcribe](https://breadonce-portfolio-website.vercel.app/#projects)** – AI legal assistant analyzing Philippine Supreme Court rulings
-- **[SenatorMatch](https://senator-match.vercel.app/)** – A 2025 voter alignment tool that matches users with Philippine senatorial candidates based on values, policies, and issue preferences
-- **[Don'tSign](https://breadonce-portfolio-website.vercel.app/#projects)** – AI-native contract platform for smarter drafting and redlining
-
 **Additional Contributions:**
 
 - **Community Building** – Founded AI Pilipinas Cebu Chapter, empowering local developers with AI education
