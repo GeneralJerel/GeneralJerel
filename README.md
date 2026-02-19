@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jerel Velarde
 
-## 🧠 AI Product Leader | AI Engineer | Community Builder
+## 🧠 AI Product Design Engineer | Community Builder
 
-I'm a distinguished product leader and AI specialist based in the Philippines (GMT+8), passionate about building meaningful AI-driven products that create impact at scale. My journey spans 9 years of product strategy and artificial intelligence, recognized as a LinkedIn Top Voice for Product Management in 2023 and honored as one of the Top 100 Brightest Minds Under 30 in the Philippines.
+I'm an AI Product Design Engineer based in San Francisco, building Chalk.to an agent management platform. I'm passionate about building meaningful AI-driven products that create impact at scale. My journey spans 9 years of product strategy and artificial intelligence, recognized as a LinkedIn Top Voice for Product Management in 2023 and honored as one of the Top 100 Brightest Minds Under 30 in the Philippines.
 
 ---
 
@@ -24,12 +24,6 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 - 🏅 **Top 100 Brightest Minds Under 30** in the Philippines by Stellar PH
 - 🏢 **Product Leader** at $30M startup (Previously)
 - 🌍 **Founder** of AI Pilipinas Cebu Chapter - promoting AI job-readiness for Filipinos
-
-**Additional Contributions:**
-
-- **Community Building** – Founded AI Pilipinas Cebu Chapter, empowering local developers with AI education
-- **Startup Scaling** – Accelerated go-to-market success through strategic AI product implementations
-- **Enterprise AI Solutions** – Built scalable AI portfolios that drove significant business growth
 
 ---
 
@@ -107,15 +101,6 @@ I'm a distinguished product leader and AI specialist based in the Philippines (G
 ### 🏢 Organizations & Community
 
 - 🧠 **[AI Pilipinas Cebu Chapter](https://www.facebook.com/aipilipinascebu/)** – Founder | Empowering Filipinos with AI education and job-readiness programs
-
----
-
-### 📈 What I'm Working On
-
-- 🔬 **AI Agent Development** – Building sophisticated agents using Google's ADK for startup automation
-- 🎓 **Community Education** – Expanding AI Pilipinas Cebu's reach and impact
-- 🚀 **Startup Consulting** – Helping early-stage companies integrate AI strategically
-- 📝 **Thought Leadership** – Sharing insights on AI product strategy and prompt engineering
 
 ---
 
