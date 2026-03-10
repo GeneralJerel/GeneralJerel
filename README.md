@@ -2,7 +2,7 @@
 
 ## 🧠 AI Product Design Engineer | Community Builder
 
-I'm an AI Product Design Engineer based in San Francisco, building Chalk.to an agent management platform. I'm passionate about building meaningful AI-driven products that create impact at scale. My journey spans 9 years of product strategy and artificial intelligence, recognized as a LinkedIn Top Voice for Product Management in 2023 and honored as one of the Top 100 Brightest Minds Under 30 in the Philippines.
+I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.com an agent management platform. I'm passionate about building meaningful AI-driven products that create impact at scale. My journey spans 9 years of product strategy and artificial intelligence, recognized as a LinkedIn Top Voice for Product Management in 2023 and honored as one of the Top 100 Brightest Minds Under 30 in the Philippines.
 
 ---
 
