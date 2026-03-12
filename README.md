@@ -41,6 +41,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 🚀 Recent Projects
 
+- **[Chalk Agents](https://chalkagents.com)** – Agent management platform for building, deploying, and managing AI agents at scale
 - **[Chalk Skills](https://github.com/GeneralJerel/chalk-skills)** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
 - **[ClawUI Kit](https://github.com/GeneralJerel/clawuikit)** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
 - **[ChiefClaw](https://github.com/GeneralJerel/chiefclaw)** – Autonomous AI Chief of Staff for freelancers, handling inbox management, calendar scheduling, invoice tracking, and daily briefings via CopilotKit and the AG-UI protocol
@@ -58,6 +59,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 #### 🐍 Languages
 
+![Language Agnostic](https://img.shields.io/badge/Language_Agnostic-555555?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -75,10 +77,12 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi_AI-000000?style=for-the-badge)
 
-#### ⚛️ Frontend
+#### ⚛️ Frontend & Desktop
 
+![Framework Agnostic](https://img.shields.io/badge/Framework_Agnostic-555555?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ☁️ Cloud & Infrastructure
