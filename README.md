@@ -40,9 +40,9 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 🚀 Recent Projects
 
-- **Chalkbrowser** – AI-powered browser built for agent workflows and autonomous web interaction
-- **Chalk Skills** – Modular skill system enabling AI agents to learn and execute complex tasks
-- **CopilotKit Integration** – Building in-app AI copilot experiences with CopilotKit for seamless human-AI collaboration
+- **Chalk Skills** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
+- **ClawUI Kit** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
+- **ChiefClaw** – Autonomous AI Chief of Staff for freelancers, handling inbox management, calendar scheduling, invoice tracking, and daily briefings via CopilotKit and the AG-UI protocol
 
 ---
 
