@@ -10,9 +10,9 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 > _"Make it WORK, Make it RIGHT, Make it PRETTY, and scale like a MF"_
 
+- 🔬 **Applied AI Engineering** – Building Chalkbrowser, Chalk Skills, and CopilotKit-powered experiences that ship AI into real products
 - 🤖 **AI Product Strategy** – Building intelligent products using Agent Development Kit, OpenAI, and cutting-edge AI technologies
 - 🚀 **Product Leadership** – Aligning AI product development with strategic business goals and driving growth
-- 🔬 **Applied AI Engineering** – Designing and deploying AI systems that solve real-world problems at scale
 
 ---
 
