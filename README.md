@@ -10,7 +10,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 > _"Make it WORK, Make it RIGHT, Make it PRETTY, and scale like a MF"_
 
-- 🔬 **Applied AI Engineering** – Building Chalkbrowser, Chalk Skills, and CopilotKit-powered experiences that ship AI into real products
+- 🔬 **Applied AI Engineering** – Designing and deploying AI systems that solve real-world problems at scale
 - 🤖 **AI Product Strategy** – Building intelligent products using Agent Development Kit, OpenAI, and cutting-edge AI technologies
 - 🚀 **Product Leadership** – Aligning AI product development with strategic business goals and driving growth
 
@@ -35,6 +35,14 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 - **[InterviewRoom.ai](https://interviewroom.ai)** – _Director of Product Management, Startup Portfolio_
   - AI-powered interview platform to cut hiring costs, accelerate time-to-hire, and attract top 1% talent
   - Deep candidate insights, personality scores, and dynamic follow-up prompts for live and recorded interviews
+
+---
+
+### 🚀 Recent Projects
+
+- **Chalkbrowser** – AI-powered browser built for agent workflows and autonomous web interaction
+- **Chalk Skills** – Modular skill system enabling AI agents to learn and execute complex tasks
+- **CopilotKit Integration** – Building in-app AI copilot experiences with CopilotKit for seamless human-AI collaboration
 
 ---
 
