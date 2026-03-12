@@ -29,8 +29,10 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 💼 Professional Experience
 
-- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_ (Current)
-  - Leading product strategy for a Venture Studio, shipping 2 AI startups from 0-to-1
+- **[Chalk Agents](https://chalkagents.com)** – _Founder & AI Engineer_ (Current)
+  - Building an agent management platform for deploying and managing AI agents at scale
+- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_
+  - Led product strategy for a Venture Studio, shipping 2 AI startups from 0-to-1
 - **[MultiplAI AI Agents](https://rea.pro/)** – _Director of Product Management, Startup Portfolio_
   - Building AI agents and crew to automate workplace tasks
 - **[InterviewRoom.ai](https://interviewroom.ai)** – _Director of Product Management, Startup Portfolio_
