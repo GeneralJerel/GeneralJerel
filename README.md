@@ -43,6 +43,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 - **Chalk Skills** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
 - **ClawUI Kit** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
 - **ChiefClaw** – Autonomous AI Chief of Staff for freelancers, handling inbox management, calendar scheduling, invoice tracking, and daily briefings via CopilotKit and the AG-UI protocol
+- **with-agent-spec** – Starter template combining Next.js and FastAPI for building AI agents using Agent Spec, with AG-UI streaming and A2UI generative UI rendering for interactive dashboards
 
 ---
 
