@@ -89,6 +89,6 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 📈 GitHub Activity
 
-![GeneralJerel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeneralJerel&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeneralJerel&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralJerel&layout=compact&theme=tokyonight&hide_border=true)
+![GeneralJerel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeneralJerel&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeneralJerel&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralJerel&layout=compact&theme=github_dark&hide_border=true)
