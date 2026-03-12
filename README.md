@@ -84,3 +84,11 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📈 GitHub Activity
+
+![GeneralJerel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeneralJerel&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeneralJerel&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralJerel&layout=compact&theme=tokyonight&hide_border=true)
