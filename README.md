@@ -13,7 +13,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 ### 💡 What I Do
 
 - 🔬 **Applied AI Engineering** – Designing and deploying AI systems that solve real-world problems at scale
-- 🤖 **AI Product Strategy** – Building intelligent products using Agent Development Kit, OpenAI, and cutting-edge AI technologies
+- 🤖 **AI Product Strategy** – Owning the full product lifecycle from vision to deployment, turning AI capabilities into shipped products
 - 🚀 **Product Leadership** – Aligning AI product development with strategic business goals and driving growth
 
 ---
