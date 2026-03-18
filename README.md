@@ -43,6 +43,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 🚀 Recent Projects
 
+- **[Open Generative UI](https://github.com/CopilotKit/OpenGenerativeUI)** ⭐ 650+ stars – Open-source framework for building interactive, AI-generated visual interfaces using CopilotKit and LangGraph. Rebuilt Anthropic's visualization tool in under 4 hours and shipped it as an open-source project featuring algorithm visualizations, 3D animations, data charts, and interactive components rendered as live HTML/SVG
 - **[Chalk Agents](https://chalkagents.com)** – Agent management platform for building, deploying, and managing AI agents at scale
 - **[Chalk Skills](https://github.com/GeneralJerel/chalk-skills)** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
 - **[ClawUI Kit](https://github.com/GeneralJerel/clawuikit)** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
