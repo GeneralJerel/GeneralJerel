@@ -29,8 +29,10 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 💼 Professional Experience
 
-- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_ (Current)
-  - Leading product strategy for a Venture Studio, shipping 2 AI startups from 0-to-1
+- **[Chalk Agents](https://chalkagents.com)** – _Founder & AI Engineer_ (Current)
+  - Building an agent management platform for deploying and managing AI agents at scale
+- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_
+  - Led product strategy for a Venture Studio, shipping 2 AI startups from 0-to-1
 - **[MultiplAI AI Agents](https://rea.pro/)** – _Director of Product Management, Startup Portfolio_
   - Building AI agents and crew to automate workplace tasks
 - **[InterviewRoom.ai](https://interviewroom.ai)** – _Director of Product Management, Startup Portfolio_
@@ -41,6 +43,7 @@ I'm an AI Product Design Engineer based in San Francisco, building Chalkagents.c
 
 ### 🚀 Recent Projects
 
+- **[Open Generative UI](https://github.com/CopilotKit/OpenGenerativeUI)** ⭐ 650+ stars – Open-source framework for building interactive, AI-generated visual interfaces using CopilotKit and LangGraph. Rebuilt Anthropic's visualization tool in under 4 hours and shipped it as an open-source project featuring algorithm visualizations, 3D animations, data charts, and interactive components rendered as live HTML/SVG
 - **[Chalk Agents](https://chalkagents.com)** – Agent management platform for building, deploying, and managing AI agents at scale
 - **[Chalk Skills](https://github.com/GeneralJerel/chalk-skills)** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
 - **[ClawUI Kit](https://github.com/GeneralJerel/clawuikit)** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
