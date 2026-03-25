@@ -41,9 +41,18 @@ I'm a Staff Applied AI Engineer and Fractional Chief AI Officer based in San Fra
 
 ---
 
+### 🤝 Companies I've Worked With in Open Source
+
+![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
 ### 🚀 Recent Projects
 
-- **[Open Generative UI](https://github.com/CopilotKit/OpenGenerativeUI)** ⭐ 650+ stars – Open-source framework for building interactive, AI-generated visual interfaces using CopilotKit and LangGraph. Rebuilt Anthropic's visualization tool in under 4 hours and shipped it as an open-source project featuring algorithm visualizations, 3D animations, data charts, and interactive components rendered as live HTML/SVG
+- **[Open Generative UI](https://github.com/CopilotKit/OpenGenerativeUI)** ⭐ 1000+ stars – Open-source framework for building interactive, AI-generated visual interfaces using CopilotKit and LangGraph. Rebuilt Anthropic's visualization tool in under 4 hours and shipped it as an open-source project featuring algorithm visualizations, 3D animations, data charts, and interactive components rendered as live HTML/SVG
 - **[Chalk Agents](https://chalkagents.com)** – Agent management platform for building, deploying, and managing AI agents at scale
 - **[Chalk Skills](https://github.com/GeneralJerel/chalk-skills)** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
 - **[ClawUI Kit](https://github.com/GeneralJerel/clawuikit)** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
@@ -77,6 +86,10 @@ I'm a Staff Applied AI Engineer and Fractional Chief AI Officer based in San Fra
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=for-the-badge)
 ![AG--UI](https://img.shields.io/badge/AG--UI-4A90D9?style=for-the-badge)
+![A2UI](https://img.shields.io/badge/A2UI-34A853?style=for-the-badge&logo=google&logoColor=white)
+![AgentSpec](https://img.shields.io/badge/AgentSpec-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock AgentCore](https://img.shields.io/badge/AWS_Bedrock_AgentCore-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi_AI-000000?style=for-the-badge)
 
@@ -90,6 +103,7 @@ I'm a Staff Applied AI Engineer and Fractional Chief AI Officer based in San Fra
 
 #### ☁️ Cloud & Infrastructure
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
