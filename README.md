@@ -23,6 +23,7 @@ I'm a Staff Applied AI Engineer and Fractional Chief AI Officer based in San Fra
 - 🌟 **LinkedIn Top Voice** for Product Management (2023)
 - 🏅 **Top 100 Brightest Minds Under 30** in the Philippines by Stellar PH
 - 🏢 **Product Leader** at $30M startup (Previously)
+- 🇺🇸 **Director of Product Management** at a U.S.-based Venture Studio (Previously)
 - 🌍 **Founder** of [AI Cebu Community](https://www.facebook.com/aipilipinascebu/) – promoting AI job-readiness for Filipinos
 
 ---
